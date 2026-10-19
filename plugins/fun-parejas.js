@@ -35,7 +35,7 @@ function handler(m, {groupMetadata}) {
     `*😍 Las 5 mejores parejas del grupo 😍*
     
 *_1.- ${toM(a)} y ${toM(b)}_*
-- Esta pareja esta destinada a estar junta 💙
+- Esta pareja esta destinada a estar junta 👑
 
 *_2.- ${toM(c)} y ${toM(d)}_*
 - Esta pareja son dos pequeños tortolitos enamorados ✨

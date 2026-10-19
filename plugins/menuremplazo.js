@@ -5,7 +5,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
   let userTag = `@${m.sender.split('@')[0]}`
 
   let captionText = `¡Hola ${userTag}
-⊹ ࣪ ˖⤷💙” 𝘋𝘶𝘦𝘯̃𝘰𝘴 𝘥𝘦𝘭 𝘣𝘰𝘵ˎˊ˗ 
+⊹ ࣪ ˖⤷�” 𝘋𝘶𝘦𝘯̃𝘰𝘴 𝘥𝘦𝘭 𝘣𝘰𝘵ˎˊ˗ 
 
 📞: wa.me/51912237503
 📞: wa.me/+1(514)6727723

@@ -8,7 +8,7 @@ gay: '🏳️‍🌈', lesbiana: '🏳️‍🌈', pajero: '😏💦', pajera: '
 
   const descriptions = {
     gay: [
-"💙 Parece que solo te gusta un poco la fiesta arcoíris.",
+"👑 Parece que solo te gusta un poco la fiesta arcoíris.",
 "🖤 Tu no eres amigo... ¡Tu eres amige! 💀",
 "🌷 ¡Nivel DIOS! Ya ni necesitas salir del clóset, lo rompiste amige."
     ],
@@ -149,7 +149,7 @@ const handler = async (m, { conn, command, args }) => {
 
   const descriptions = {
     gay: [
-      "💙 Parece que solo te gusta un poco la fiesta arcoíris.",
+      "👑 Parece que solo te gusta un poco la fiesta arcoíris.",
       "🖤 Tú no eres amigo... ¡Tú eres amigue! 💀",
       "🌷 ¡Nivel DIOS! Ya ni necesitas salir del clóset, lo rompiste amige."
     ],

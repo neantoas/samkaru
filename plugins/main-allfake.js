@@ -60,7 +60,7 @@ global.wait = '*⏳ Aguarde un momento...*';
 global.hotw = '*🔥 Los comandos nsfw están desactivados para este chat.*';
 
 //ENLACES
-var grupo = 'https://chat.whatsapp.com/KKB2G0vEk98DR9P9pVrorQ?s=cl&p=a&mlu=4&ilr=4'
+var grupo = 'https://www.instagram.com/samkaruofc'
 var web = 'https://yancito-bot.vercel.app/' 
 let instagram = 'https://www.instagram.com/CapibaraBot'
 

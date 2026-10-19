@@ -8,7 +8,7 @@ const handler = async (m, {isOwner, isAdmin, conn, text, participants, args, com
   }
   const pesan = args.join` `;
 const oi = `*\`AVISO:\`* ${pesan}`;
-  let teks = `${msgtagall}\n*INTEGRANTES:* ${participants.length}\n\n ${oi}\n\nෆ *ETIQUETAS*\n`;
+  let teks = `${msgtagall}\n*INTEGRANTES:* ${participants.length}\n\n ${oi}\n\n👑 *ETIQUETAS*\n`;
   for (const mem of participants) {
     teks += `${emotg}⇝ @${mem.id.split('@')[0]}\n`;
   }
