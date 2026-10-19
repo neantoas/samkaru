@@ -1,6 +1,6 @@
 let handler = async (m, { conn, usedPrefix, command }) => {
-    let vcard1 = `BEGIN:VCARD\nVERSION:3.0\nN:;Aleizn;;;\nFN:Aleizn\nitem1.TEL;waid=51992621601:+51 992 621 601\nitem1.X-ABLabel:Propietario / Owner\nEND:VCARD`
-    let vcard2 = `BEGIN:VCARD\nVERSION:3.0\nN:;Anto;;;\nFN:Anto\nitem1.TEL;waid=56927280073:+56 9272 80073\nitem1.X-ABLabel:Propietario / Owner\nEND:VCARD`
+    let vcard1 = `BEGIN:VCARD\nVERSION:3.0\nN:;Samkaru;;;\nFN:Samkaru\nitem1.TEL;waid=51912237503:+51 912 237 503\nitem1.X-ABLabel:Propietario / Owner\nEND:VCARD`
+    let vcard2 = `BEGIN:VCARD\nVERSION:3.0\nN:;D2;;;\nFN:Anto\nitem1.TEL;waid=1(514)6727723:+1 (514) 672-7723\nitem1.X-ABLabel:Propietario / Owner\nEND:VCARD`
 
     await conn.sendMessage(m.chat, {
         contacts: {

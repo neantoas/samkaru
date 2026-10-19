@@ -1,6 +1,6 @@
 
 const handler = async (m, { text, usedPrefix, command, quoted }) => {
-  const defaultPP = 'https://files.catbox.moe/sy1dwt.jpeg';
+  const defaultPP = 'https://files.catbox.moe/445can.jpg';
   const defaultSignature = '@frases_que_nadie_dijo';
   //const name = m.name || 'Usuario Anonimo';
   const name = usname;

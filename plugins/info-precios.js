@@ -15,8 +15,8 @@ let handler = async (m, { conn, command }) => {
 
         // Enviar contacto
         let list = [{
-            displayName: "KaisenBot🌷",
-            vcard: `BEGIN:VCARD\nVERSION:3.0\nFN:KaisenBot🌷\nitem1.TEL;waid=+51992621601:+51992621601\nitem1.X-ABLabel:Número\nitem2.EMAIL;type=INTERNET:abuelitas yasociadas@gmail.com\nitem2.X-ABLabel:Email\nitem3.URL:https://www.instagram.com/KaisenBot\nitem3.X-ABLabel:Instagram\nitem4.ADR:;; Argentina 🇦🇷;;;;\nitem4.X-ABLabel:Región\nEND:VCARD`,
+            displayName: "CapibaraBot🌷",
+            vcard: `BEGIN:VCARD\nVERSION:3.0\nFN:CapibaraBot🌷\nitem1.TEL;waid=+51912237503:+51912237503\nitem1.X-ABLabel:Número\nitem2.EMAIL;type=INTERNET:abuelitas yasociadas@gmail.com\nitem2.X-ABLabel:Email\nitem3.URL:https://www.instagram.com/CapibaraBot\nitem3.X-ABLabel:Instagram\nitem4.ADR:;; Argentina 🇦🇷;;;;\nitem4.X-ABLabel:Región\nEND:VCARD`,
         }];
 
         await conn.sendMessage(m.chat, {

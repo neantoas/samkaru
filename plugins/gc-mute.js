@@ -2,9 +2,9 @@ let mutedUsers = new Set();
 
 // Lista de owners y número del bot
 const ownerNumbersRaw = [
-    "+51992621601",
-    "+51992621601",
-    "+51992621601"
+    "+51912237503",
+    "+51912237503",
+    "+51912237503"
 ];
 const botNumberRaw = "5493885926112";
 

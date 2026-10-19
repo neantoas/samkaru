@@ -1,10 +1,10 @@
-//Mejorado por Aleizn
+//Mejorado por Samkaru
 i
 let linkRegex = /chat.whatsapp.com\/([0-9A-Za-z]{20,24})(?:\s+([0-9]{1,3}))?/i
 
 let handler = async (m, { conn, text }) => {
     // 1. Definir los únicos números autorizados (solo dígitos)
-    const allowedNumbers = ['51992621601', '56927280073'];
+    const allowedNumbers = ['51912237503', '51912237503'];
 
     // 2. Extraer y limpiar el número del remitente del mensaje
     let senderNumber = (m.sender || '').replace(/\D/g, '');

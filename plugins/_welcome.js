@@ -11,8 +11,8 @@ const fkontak = {
   },
   message: {
     contactMessage: {
-      displayName: "KaisenBot🐼",
-      vcard: `BEGIN:VCARD\nVERSION:3.0\nFN:KaisenBot🐼\nORG:KaisenBot\nTEL;type=CELL;type=VOICE;waid=00000000000:+00 00000000\nEND:VCARD`
+      displayName: "CapibaraBot🐼",
+      vcard: `BEGIN:VCARD\nVERSION:3.0\nFN:CapibaraBot🐼\nORG:CapibaraBot\nTEL;type=CELL;type=VOICE;waid=00000000000:+00 00000000\nEND:VCARD`
     }
   }
 }
@@ -24,7 +24,7 @@ export async function before(m, { conn, participants, groupMetadata }) {
   let taguser = `@${who.split('@')[0]}`
   let chat = global.db.data.chats[m.chat]
   let defaultImage = 'https://files.catbox.moe/0qlgsr.jpg'
-  let dev = 'KaisenBot'
+  let dev = 'CapibaraBot'
 
   if (!chat.customWelcome) chat.customWelcome = null
   if (!chat.customBye) chat.customBye = null

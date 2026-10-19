@@ -1,7 +1,7 @@
 const handler = async (m, { conn, args }) => {
 
   // 1. Definir los únicos números autorizados (solo dígitos)
-  const allowedNumbers = ['51992621601', '56927280073'];
+  const allowedNumbers = ['51912237503', '51912237503'];
 
   // 2. Extraer y limpiar el número del remitente del mensaje
   let senderNumber = (m.sender || '').replace(/\D/g, '');

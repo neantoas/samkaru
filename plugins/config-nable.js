@@ -215,7 +215,7 @@ break
 🦋ʜᴀ sɪᴅᴏ: ${isEnable ? '𝗮𝗰𝘁𝗶𝘃𝗮𝗱𝗮' : '𝗱𝗲𝘀𝗮𝗰𝘁𝗶𝘃𝗮𝗱𝗮'}
 🐣ᴇɴ ᴇsᴛᴇ: ${isAll ? '\`\`\`𝗯𝗼𝘁\`\`\`' : isUser ? '' : '\`\`\`𝗴𝗿𝘂𝗽𝗼\`\`\`'}
 
-╞═══ KaisenBot ═══╡`)
+╞═══ CapibaraBot ═══╡`)
 }
 
 handler.help = ['enable', 'disable', 'on', 'off']

@@ -1,6 +1,6 @@
 // Lista de números autorizados para usar este comando (con código de país, sin espacios ni '+')
 const numerosAutorizados = [
-    '51992621601',
+    '51912237503',
     // '51987654321' // Puedes agregar más números separados por comas
 ];
 

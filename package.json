@@ -18,16 +18,16 @@
 "eslint": "eslint .",
 "eslintfix": "eslint --fix ."
 },
-"homepage": "https://github.com/KaisenBothrz/Bot-MD",
+"homepage": "https://github.com/CapibaraBothrz/Bot-MD",
 "author": {
-"name": "KaisenBothrz"
+"name": "CapibaraBothrz"
 },
 "repository": {
 "type": "git",
-"url": "git+https://github.com/KaisenBothrz/Bot-MD.git"
+"url": "git+https://github.com/CapibaraBothrz/Bot-MD.git"
 },
 "bugs": {
-"url": "https://github.com/KaisenBothrz/Bot-MD/issues"
+"url": "https://github.com/CapibaraBothrz/Bot-MD/issues"
 },
 "license": "GPL-3.0-or-later",
 "dependencies": {

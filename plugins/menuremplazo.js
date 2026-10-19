@@ -1,5 +1,5 @@
 let handler = async (m, { conn, usedPrefix, command }) => {
-  let imageUrl = 'https://files.catbox.moe/ej79en.jpg'
+  let imageUrl = 'https://files.catbox.moe/445can.jpg'
   
   // Extraemos el número de la persona que ejecuta el comando para mencionarla
   let userTag = `@${m.sender.split('@')[0]}`
@@ -7,10 +7,8 @@ let handler = async (m, { conn, usedPrefix, command }) => {
   let captionText = `¡Hola ${userTag}
 ⊹ ࣪ ˖⤷💙” 𝘋𝘶𝘦𝘯̃𝘰𝘴 𝘥𝘦𝘭 𝘣𝘰𝘵ˎˊ˗ 
 
-📞: wa.me/51992621601
-📞: wa.me/56927280073
-
-Comprar con el +56 XD🛍️
+📞: wa.me/51912237503
+📞: wa.me/+1(514)6727723
 
     𓂃ෆ˚────୨ৎ────𐚁๋࣭⭑ֶָ֢
                 MENUS
@@ -352,7 +350,7 @@ Comprar con el +56 XD🛍️
 𖦹°‧★💐.update
 ˚₊‧✩ ˚₊‧꒰ა ʚིᵋº̣̥͙̣̥͙ᵌɞྀ ໒꒱ ‧₊˚ ✩‧₊˚
 
-> KaisenBot'`
+> CapibaraBot'`
 
   await conn.sendMessage(m.chat, { 
     image: { url: imageUrl }, 

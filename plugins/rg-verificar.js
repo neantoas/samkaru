@@ -42,7 +42,7 @@ await m.react('💌')
   user.joincount += 5
 
   let perfil = await conn.profilePictureUrl(m.sender, 'image')
-    .catch(() => 'https://files.catbox.moe/sy1dwt.jpeg')
+    .catch(() => 'https://files.catbox.moe/445can.jpg')
   let img = await (await fetch(perfil)).buffer()
 
   const sn = createHash('md5').update(m.sender).digest('hex')
